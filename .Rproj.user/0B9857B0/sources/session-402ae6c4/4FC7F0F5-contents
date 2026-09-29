@@ -1,12 +1,12 @@
 ---
 title: "Projects"
-listing:
+listing: true
 contents: posts
 sort: "date"
 type: grid
 categories: false
-sort-ui: false
+sort-ui: fase
 filter-ui: false
 page-layout: full
-title-block-banner: true
+title-block-banner: false
 ---

@@ -3,7 +3,7 @@
     "path": "C:/Users/Noah Simpson/Desktop/School/Fall 26 Class Resources/Intro to IE/EPortfolio/projects.qmd",
     "project_path": "projects.qmd",
     "type": "quarto_markdown",
-    "hash": "1180061688",
+    "hash": "0",
     "contents": "",
     "dirty": false,
     "created": 1790709251527.0,
@@ -19,14 +19,14 @@
         "rmdVisualCollapsedChunks": "",
         "cursorPosition": "0,0",
         "scrollLine": "0",
-        "rmdVisualModeLocation": "5:0"
+        "rmdVisualModeLocation": "170:0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1790709951,
+    "lastKnownWriteTime": 1790719829,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1790709951140,
+    "last_content_update": 1790719829156,
     "read_only": false,
     "read_only_alternatives": []
 }

@@ -1,6 +1,7 @@
 ---
-title: "Your Name"
+title: "Noah Simpson"
 image: Headshot.jpg
+description: "Sophomore Industrial Engineering Student at the University of Arkansas"
 about:
   template: jolla
   links:
@@ -12,5 +13,5 @@ about:
     href: https://linkedin.com/in/noah-simpson-4a1ba8253/
   - icon: inboxes
     text: Contact
-    href: mailto: "nsimpson06@outlook.com"
+    href: "mailto:nwsimpson06@outlook.com"
 ---
