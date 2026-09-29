@@ -1,0 +1,16 @@
+---
+title: "Your Name"
+image: Headshot.jpg
+about:
+  template: jolla
+  links:
+  - icon: github
+    text: GitHub
+    href: https://github.com/nsimpson06
+  - icon: linkedin
+    text: LinkedIn
+    href: https://linkedin.com/in/noah-simpson-4a1ba8253/
+  - icon: inboxes
+    text: Contact
+    href: mailto: "nsimpson06@outlook.com"
+---

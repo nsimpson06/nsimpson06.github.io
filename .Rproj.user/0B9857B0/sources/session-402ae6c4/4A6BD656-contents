@@ -1,0 +1,27 @@
+project:
+  type: website
+
+website:
+  description: "A blog built with Quarto"
+  title: "EPortfolio"
+  navbar:
+    right:
+      - text: About
+        href: index.qmd
+      - icon: github
+        href: https://github.com/
+      - icon: bluesky
+        href: https://bsky.app/
+      - text: Projects
+        href: projects.qmd
+      - text: Resume
+        href: resume.qmd
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+
+editor: visual
+
