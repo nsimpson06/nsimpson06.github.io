@@ -1,12 +1,15 @@
 [
   {
+    "listing": "/presentations.html",
+    "items": [
+      "/projects/Data Visualization/index.html"
+    ]
+  },
+  {
     "listing": "/projects.html",
     "items": [
-      "/about.html",
       "/posts/post-with-code/index.html",
-      "/resume.html",
-      "/posts/welcome/index.html",
-      "/index.html"
+      "/posts/welcome/index.html"
     ]
   }
 ]
